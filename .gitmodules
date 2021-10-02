@@ -1,0 +1,6 @@
+[submodule "nodenector"]
+	path = nodenector
+	url = https://github.com/AnoRebel/nodenector.git
+[submodule "pynector"]
+	path = pynector
+	url = https://github.com/AnoRebel/pynector.git
